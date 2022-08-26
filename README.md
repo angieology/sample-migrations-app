@@ -1,4 +1,8 @@
-# Getting Started
+# Demo Migrations App
+
+Code sample from [Postgres and SQL course by Stephen Grider](https://www.udemy.com/course/sql-and-postgresql)
+
+## Getting Started
 
 1. Run `npm install`
 
